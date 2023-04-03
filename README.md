@@ -1,1 +1,3 @@
-# trab-dev-backend
+# trabalho de backend
+
+.git criado
